@@ -6,4 +6,6 @@ content += "<h1>" + heading + "</h1>";
 
 content += "<p> this is a paragraph with a few words that repeat a few times</p>"
 alert("Hi Jordie");
-document.write(conte"nt);
+document.write(content);
+
+console.log(content);
